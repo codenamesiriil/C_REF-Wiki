@@ -1,12 +1,11 @@
 # C Reference - Wiki Page
 
 ## Index
-
 1. Introdoction
 2. cns_strcpy
-   1. usage
-   2. prototype
+   1. prototype
       1. link to man page
+   2. usage
    3. pitfalls
    4. tests
       1. case 1
@@ -21,6 +20,8 @@
       1. case 1
       2. case 2
       3. (...)
+4. cns_strlcpy
+   1. (...)
 
 ## Introduction
 
