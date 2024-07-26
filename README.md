@@ -18,9 +18,8 @@
    2. usage
    3. pitfalls
    4. potential improvements
-   5. tests
       1. case 1
-      2. case 2 
+      2. case 2
       3. (...)
 
 ## Introduction
@@ -60,9 +59,4 @@
 ## cns_strncpy
 
 ## cns_strlcpy
-
-
-
-
-
 
